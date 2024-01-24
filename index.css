@@ -90,7 +90,6 @@ a:hover{
     display: flex;
     justify-content: space-between;
     margin: 0 7em;
-    border-right: 1px solid #333;
 }
 
 
@@ -119,5 +118,9 @@ a:hover{
 
 .descrip{
     margin: -.7em 1em;
+}
+
+.border{
+
 }
 
