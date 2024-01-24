@@ -3,10 +3,6 @@ body{
     padding: 0;
 }
 
-.container{
-
-}
-
  .header{
     background: url('images/img3.avif') no-repeat;
     background-size: cover;
@@ -86,5 +82,13 @@ a:hover{
 
 a:hover{
     color: #FFBC13;
+}
+
+.section1{
+    background-color: black;
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 4em;
 }
 
