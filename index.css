@@ -148,7 +148,11 @@ a:hover{
 .content-img a{
     text-decoration: none;
     color: #FFBC13;
+}
 
+.content-img h3{
+    color: #fff;
+    font-family: 'Inter';
 }
 
 .contetn1, .contetn2, .contetn3{
