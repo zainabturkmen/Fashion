@@ -7,6 +7,15 @@ body{
 
 }
 
+.header{
+
+}
+
 .logo-champz{
 
+}
+
+.nav{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
 }
