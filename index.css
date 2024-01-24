@@ -25,7 +25,6 @@ body{
 nav{
     font-family: 'Poppins', sans-serif;
     background: rgba(255, 255, 255, 0.10);
-    /* background-color: black; */
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -37,13 +36,14 @@ nav ul{
     display: flex;
     justify-content: space-between;
     margin-right: 5em;
+    list-style-type: none;
 }
 
 nav ul li a{
     text-decoration: none;
     color: #fff;
     text-transform: uppercase;
-    margin: 1em
+    margin: 1em;
 
 }
 
