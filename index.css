@@ -90,13 +90,21 @@ a:hover{
     display: flex;
     justify-content: space-between;
     margin: 0 7em;
-    padding: 1em;
 }
 
 .section1 svg{
     width: 50px;
     height: 40px;
 }
+
+.Order{
+    display: flex;
+    margin: 1.7em 0 0 0;
+    border-right: 1px solid #333;
+    padding-right: 2em;
+    margin-right: -1em;
+}
+
 
 .section1 h3{
     text-transform: uppercase;
@@ -109,14 +117,7 @@ a:hover{
     font-weight: 400;
     font-family: 'Poppins';
     margin-top: -0.2em;
-}
-
-.Order{
-    display: flex;
-    margin: 1.7em 0 0 0;
-    border-right: 1px solid #333;
-    padding-right: 2em;
-    margin-right: -1em;
+    padding-bottom: 1em;
 }
 
 .descrip{
