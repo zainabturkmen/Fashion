@@ -91,7 +91,7 @@ a:hover{
     color: #FFF;
     display: flex;
     justify-content: space-between;
-    margin: -4em 12em -4em 12.8em;
+    margin: -4em 13.5em;
     padding: 0;
 }
 
@@ -132,15 +132,46 @@ a:hover{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 2em;
 }
 
 .head{
-    margin-top: 6em;
+    margin-top: 7em;
     display: flex;
+    justify-content: space-between;
 }
+
+.head p {
+    color: #FFBC13;    
+}
+
+.head a{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    padding: 1em;
+    width: 150px;
+    height: 17px;
+    text-align: center;
+    margin-right: -33.6em;
+    margin-top: 1.5em;
+}
+
+.head-content{
+    margin-left: -33.5em;
+}
+
 
 .content-img{
     display: flex;
+}
+
+.svg-img svg{
+    width: 20px;
+    height: 15px;
+    color: #FFBC13;
+    margin-left: 0.4em;
+    margin-bottom: -.3em;
 }
 
 .content-img a{
@@ -151,44 +182,49 @@ a:hover{
 .content-img h3{
     color: #fff;
     font-family: 'Inter';
+    margin-bottom: 0;
+}
+
+.content-img a{
+    margin-bottom: -.5em;
 }
 
 .contetn1, .contetn2, .contetn3{
-    margin: 1em;
+    margin: .3em;
     padding: 1em;
 }
 
 .contetn1{
-  background: url('images/content-img1.png') no-repeat;  
+  background: #111 url('images/content-img1.png') no-repeat;  
   background-blend-mode: screen;
   background-position: 0;
   background-size: cover;
   width: 320px;
-  height: 300px;
+  height: 330px;
   display: flex;
   flex-direction: column;
   justify-content: end;
 }
 
 .contetn2{
-    background: url('images/content-img1.png') no-repeat;  
+    background: #333 url('images/content-img2.png') no-repeat;  
     background-blend-mode: screen;
     background-position: 0;
     background-size: cover;
     width: 320px;
-    height: 300px;
+    height: 330px;
     display: flex;
     flex-direction: column;
     justify-content: end;
 }
 
 .contetn3{
-    background: url('images/content-img1.png') no-repeat;  
+    background: #333 url('images/content-img3.png') no-repeat;  
     background-blend-mode: screen;
     background-position: 0;
     background-size: cover;
     width: 320px;
-    height: 300px;
+    height: 330px;
     display: flex;
     flex-direction: column;
     justify-content: end;
