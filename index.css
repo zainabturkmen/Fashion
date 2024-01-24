@@ -4,24 +4,49 @@ body{
 }
 
 .container{
-    width: 676px;
+    /* width: 876px; */
 }
 
  .header{
-  
-
-
+    background: url('images/back-img.jpg') no-repeat;
+    background-size: contain;
+    background-blend-mode: screen;
+    height: 600px;
+   
 }
 
 .logo-champz{
-  background-color: black;
-  background-color: rgba(255, 255, 255, 0.10);
-
+    width: 80px;
+    height: 17.43px;
+    margin: 1.3em;
+    padding-left: 4em;
 } 
 
-.nav{
+nav{
     font-family: 'Poppins', sans-serif;
     background: rgba(255, 255, 255, 0.10);
-    backdrop-filter: blur(3.7555556297302246px);
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 3.6em;
+    
+}
 
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 5em;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 1em
+
+}
+
+a:hover{
+    color: #FFBC13;
 }
