@@ -97,6 +97,12 @@ a:hover{
     height: 40px;
 }
 
+.section1 h3{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Poppins';
+}
+
 .Order{
     display: flex;
     margin: 1.7em 1.5em;
