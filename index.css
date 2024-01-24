@@ -91,7 +91,7 @@ a:hover{
     color: #FFF;
     display: flex;
     justify-content: space-between;
-    margin: -4em 10em;
+    margin: -4em 12em -4em 12.8em;
     padding: 0;
 }
 
@@ -104,9 +104,7 @@ a:hover{
 .Order{
     display: flex;
     margin: 1.7em 0 0 0;
-    border-right: 1px solid #333;
-    padding-right: .5em;
-    margin-right: 0em;
+    border-left: 1px solid #333;
 }
 
 .section1 h3{
@@ -165,7 +163,7 @@ a:hover{
   background-blend-mode: screen;
   background-position: 0;
   background-size: cover;
-  width: 280px;
+  width: 320px;
   height: 300px;
   display: flex;
   flex-direction: column;
@@ -177,7 +175,7 @@ a:hover{
     background-blend-mode: screen;
     background-position: 0;
     background-size: cover;
-    width: 280px;
+    width: 320px;
     height: 300px;
     display: flex;
     flex-direction: column;
@@ -189,7 +187,7 @@ a:hover{
     background-blend-mode: screen;
     background-position: 0;
     background-size: cover;
-    width: 280px;
+    width: 320px;
     height: 300px;
     display: flex;
     flex-direction: column;
