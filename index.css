@@ -92,6 +92,10 @@ a:hover{
     margin: 0 7em;
 }
 
+.section1 h3{
+    text-transform: uppercase;
+}
+
 .section1 svg{
     width: 50px;
     height: 40px;
@@ -99,5 +103,10 @@ a:hover{
 
 .Order{
     display: flex;
+    margin: 1.7em 1.5em;
+}
+
+.descrip{
+    margin: -.7em 1em ;
 }
 
