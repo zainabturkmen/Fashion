@@ -90,13 +90,13 @@ a:hover{
     display: flex;
     justify-content: space-between;
     margin: 0 7em;
-    padding-top: 0;
+    padding: 0;
 }
 
 .section1 svg{
     width: 50px;
     height: 40px;
-    margin-left: 1em;
+    margin-left: 1.5em;
 }
 
 .Order{
