@@ -8,15 +8,20 @@ body{
 }
 
  .header{
+  
+
 
 }
 
 .logo-champz{
   background-color: black;
+  background-color: rgba(255, 255, 255, 0.10);
+
 } 
 
 .nav{
     font-family: 'Poppins', sans-serif;
-    background-color: rgba(255, 255, 255, 0.10);
+    background: rgba(255, 255, 255, 0.10);
+    backdrop-filter: blur(3.7555556297302246px);
 
 }
