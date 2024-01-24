@@ -47,3 +47,10 @@ nav ul li a{
 a:hover{
     color: #FFBC13;
 }
+
+.headline{
+    display: flex;
+    align-items: center;
+    color: #fff;
+
+}
