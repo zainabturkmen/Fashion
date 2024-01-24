@@ -173,9 +173,25 @@ a:hover{
 }
 
 .contetn2{
-
+    background: url('images/content-img1.png') no-repeat;  
+    background-blend-mode: screen;
+    background-position: 0;
+    background-size: cover;
+    width: 280px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
 }
 
 .contetn3{
-
+    background: url('images/content-img1.png') no-repeat;  
+    background-blend-mode: screen;
+    background-position: 0;
+    background-size: cover;
+    width: 280px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
 }
