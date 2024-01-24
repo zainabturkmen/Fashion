@@ -145,8 +145,13 @@ a:hover{
     display: flex;
 }
 
-.contetn1{
+.contetn1, .contetn2, .contetn3{
+    margin: 1em;
+}
 
+.contetn1{
+    
+ 
 }
 
 .contetn2{
