@@ -90,6 +90,7 @@ a:hover{
     display: flex;
     justify-content: space-between;
     margin: 0 7em;
+    border-right: 1px solid #333;
 }
 
 .section1 svg{
@@ -107,6 +108,7 @@ a:hover{
 .section1 p{
     font-weight: 400;
     font-family: 'Poppins';
+    margin-top: -0.2em;
 }
 
 .Order{
