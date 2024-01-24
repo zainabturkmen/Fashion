@@ -75,8 +75,8 @@ a:hover{
 
 .headline a{
     text-decoration: none;
-    background: rgba(255, 255, 255, 0.10);
-    padding: 1em;
+    background: #111;
+    padding: 1em 1.5em;
     margin-top: 2em;
     color: #fff;
     border-radius: 5px;
