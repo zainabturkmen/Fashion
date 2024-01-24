@@ -10,7 +10,7 @@ body{
  .header{
     background: url('images/img3.avif') no-repeat;
     background-size: cover;
-    height: 700px;
+    height: 800px;
     background-position: center;
 }
 
@@ -50,5 +50,23 @@ a:hover{
 
 .headline{
     color: #fff;
+    margin: 7em;
+}
+
+.headline h1{
+    text-transform: uppercase;
+    font-size: 4rem;
+    font-family: 'Inter';
 
 }
+
+
+.super-deals{
+    text-transform: uppercase;
+    color: #FFBC13;
+}
+
+.content-para{
+
+}
+
