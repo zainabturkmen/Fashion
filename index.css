@@ -90,11 +90,13 @@ a:hover{
     display: flex;
     justify-content: space-between;
     margin: 0 7em;
+    padding-top: 0;
 }
 
 .section1 svg{
     width: 50px;
     height: 40px;
+    margin-left: 1em;
 }
 
 .Order{
@@ -102,7 +104,7 @@ a:hover{
     margin: 1.7em 0 0 0;
     border-right: 1px solid #333;
     padding-right: 2em;
-    margin-right: -1em;
+    margin-right: 0em;
 }
 
 .section1 h3{
