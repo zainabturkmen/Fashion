@@ -89,6 +89,15 @@ a:hover{
     color: #FFF;
     display: flex;
     justify-content: space-between;
-    margin: 0 4em;
+    margin: 0 7em;
+}
+
+.section1 svg{
+    width: 50px;
+    height: 40px;
+}
+
+.Order{
+    display: flex;
 }
 
