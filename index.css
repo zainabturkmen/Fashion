@@ -4,7 +4,9 @@ body{
 }
 
  .header{
-    background: url('images/img3.avif') no-repeat;
+    background: url('images/image.png') no-repeat;
+    background: #111111, rgba(17, 17, 17, 0.50);
+    background-blend-mode: screen;
     background-size: cover;
     height: 710px;
     background-position: center;
