@@ -75,4 +75,16 @@ a:hover{
     font-size: .8rem;
 }
 
+.headline a{
+    text-decoration: none;
+    background: rgba(255, 255, 255, 0.10);
+    padding: 1em;
+    margin-top: 2em;
+    color: #fff;
+    border-radius: 5px;
+}
+
+a:hover{
+    color: #FFBC13;
+}
 
