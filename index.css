@@ -90,6 +90,7 @@ a:hover{
     display: flex;
     justify-content: space-between;
     margin: 0 7em;
+    padding: 1em;
 }
 
 .section1 svg{
@@ -112,15 +113,20 @@ a:hover{
 
 .Order{
     display: flex;
-    margin: 1.7em 1.5em;
+    margin: 1.7em 0 0 0;
+    border-right: 1px solid #333;
+    padding-right: 2em;
+    margin-right: -1em;
+
 }
 
 .descrip{
     margin: -.7em 1em;
+
 }
 
-.border{
+/* .border{
     border-right: 1px solid #333;
 
-}
+} */
 
