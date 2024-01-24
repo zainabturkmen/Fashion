@@ -89,8 +89,9 @@ a:hover{
     color: #FFF;
     display: flex;
     justify-content: space-between;
-    margin: 0 7em;
+    margin: -4em 8em;
     padding: 0;
+
 }
 
 .section1 svg{
@@ -103,7 +104,7 @@ a:hover{
     display: flex;
     margin: 1.7em 0 0 0;
     border-right: 1px solid #333;
-    padding-right: 2em;
+    padding-right: 1em;
     margin-right: 0em;
 }
 
@@ -119,6 +120,7 @@ a:hover{
     font-family: 'Poppins';
     margin-top: -0.2em;
     padding-bottom: 1em;
+    width: 180px;
 }
 
 .descrip{
