@@ -145,16 +145,23 @@ a:hover{
     display: flex;
 }
 
+.content-img a{
+    text-decoration: none;
+    color: #FFBC13;
+
+}
+
 .contetn1, .contetn2, .contetn3{
     margin: 1em;
 }
 
 .contetn1{
-  background: url('images/image\ \(1\).png') no-repeat;  
-  background-color: rgba(17, 17, 17, 0.00);
+  background: url('images/content-img1.png') no-repeat;  
+  background-blend-mode: screen;
   background-position: 0;
-  height: 200px;
-  max-width: 200px;
+  background-size: cover;
+  width: 300px;
+  height: 300px;
 }
 
 .contetn2{
