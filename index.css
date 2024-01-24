@@ -5,13 +5,14 @@ body{
 
 .container{
     /* width: 876px; */
+
 }
 
  .header{
-    background: url('images/back-img.jpg') no-repeat;
-    background-size: contain;
-    background-blend-mode: screen;
-    height: 600px;
+    background: url('images/img3.avif') no-repeat;
+    background-size: cover;
+    height: 700px;
+    background-position: center;
    
 }
 
