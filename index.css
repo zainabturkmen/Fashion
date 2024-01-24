@@ -104,6 +104,14 @@ a:hover{
     font-size: 1rem;
 }
 
+.section1 p{
+    font-weight: 400;
+    font-family: 'Poppins';
+
+    
+
+}
+
 .Order{
     display: flex;
     margin: 1.7em 1.5em;
