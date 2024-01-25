@@ -2,7 +2,6 @@ body{
     margin: 0;
     padding: 0;
 }
-
  .header{
     background: var(--Overlay, rgba(17, 17, 17, 0.50))url('images/image.png') no-repeat;
     background-size: cover;
