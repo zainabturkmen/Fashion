@@ -225,7 +225,7 @@ a:hover{
     background:  linear-gradient(180deg, rgba(17, 17, 17, 0.00) 0%, 
     rgba(17, 17, 17, 0.80) 100%), url('images/content-img2.png') no-repeat;  
     background-position: 0;
-    background-size: cover;
+    background-size: cover;   
     width: 320px;
     height: 330px;   
     display: flex;   
