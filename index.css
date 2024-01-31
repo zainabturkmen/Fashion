@@ -228,7 +228,7 @@ a:hover{
     background-size: cover;
     width: 320px;
     height: 330px;
-    display: flex;
+    display: flex;   
     flex-direction: column;
     justify-content: end;
 }                         
