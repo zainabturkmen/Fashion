@@ -1,4 +1,4 @@
-const double1 = 4.0;
-const double2 = 4.0;
+let double1 = parseInt(4.0);
+let double2 = parseInt(4.0);
 
-console.log(double1 + double2)
+let sum = double1 + double2
