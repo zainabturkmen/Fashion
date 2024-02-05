@@ -244,3 +244,92 @@ a:hover{
     flex-direction: column;
     justify-content: end;
 }   
+
+
+/*  section 3 */
+
+.title{
+    margin-top: 2em;
+}
+
+.title p{
+    color: #FFBC13;
+    text-transform: uppercase;
+    font-family: 'Poppins';
+    font-size: 6.103px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-bottom: .9em;
+}
+
+.title h1{
+    text-transform: uppercase;
+    color: #111;
+    font-family: 'Inter';
+    font-weight: 800;
+    line-height: 22.533px; /* 106.667% */
+    font-size: 23px;
+    margin-bottom: .6em;
+}
+
+.sneakers-img{
+    display: flex;
+    justify-content: center;
+    gap: .7em;
+    margin-right: .4em;
+    margin-bottom: .2em;
+}
+
+.sneakers{
+    display: flex;
+    flex-direction: column;
+}
+
+.sneakers img{
+    width: 110%;
+}
+
+/* .sneakers svg{
+    margin: 0 0 0 2.1em;
+} */
+
+.subtitle{
+    border: 1px solid #DDD;
+    background-color: #FFF;
+    /* padding-right: 1em; */
+    width: 110%;
+}
+
+.sneakers p{
+    color: #111;
+    font-size: .3em;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-bottom: 0;
+    text-align: center;
+    margin-top: .5em;
+}
+
+.sneakers .price{
+    color: #FF1C45;
+    font-weight: 700;
+    font-size: 7.042px;
+    line-height: normal;
+    font-family: 'Inter';
+    margin-top: .5em;
+    margin-bottom: .9em;
+}
+
+.sneakers a{
+    color: #fff;
+    background-color: #111;
+    padding: 1em .3em;
+    margin-top: 1.5em;
+    text-decoration: none;
+    font-size: 7px;
+    text-transform: uppercase;
+    width: 60%;
+    /* height: 20%; */
+    margin-left: -25em;
+    margin-top: 3em;
+}
