@@ -334,3 +334,394 @@ a:hover{
 }
 
 
+.header-section4{
+    background-color: #111;
+    margin-top: 2em;
+    padding: .5em 0;
+    border-bottom: .2px solid #666464;
+
+}
+
+.header-section4 h3{
+    color: #fff;
+    text-align: center;
+    font-family: 'Inter';
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 9.389px;
+    font-style: normal;
+    margin-bottom: -1em;
+    margin-top: 1em;
+}
+
+.brands{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1em 4em;
+}
+
+.about{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.sneaker-store{
+    width: 109.7%;
+    margin-left: -1.6em;
+}
+
+ .store{
+    width: 70%;
+    margin-left: 3.3em;
+}
+
+.about-us{
+    background-color: #111;
+    /* width: 676px; */
+    height: 88%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    height: 100%;
+}
+.about-us .about-para{
+    color: #FFBC13;
+    margin-left: 10.5em;
+    margin-right: auto;
+    text-transform: uppercase;
+}
+
+.about-us h1{
+    font-family: 'Inter';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 22.533px; /* 106.667% */
+    text-transform: uppercase;
+    color: #fff;
+    margin-left: -1em;
+    margin-top: -.5em;
+    margin-bottom: .5em;
+}
+
+.about-us p{
+    font-family: 'Poppins';
+    font-weight: 200;
+    font-size: 8px;
+    line-height: 17px; /* 160% */
+    color: #fff;
+    text-align: left;
+    margin-left: 3em;
+}
+
+.about-us a{
+    font-family: 'Poppins';
+    font-size: 6.572px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.939px;
+    text-transform: uppercase;
+    padding: 1em 2em;
+    background-color: #111;
+    text-align: center;
+    text-decoration: none;
+    border: .5px solid #666464;
+    color: #fff;
+    /* margin-right: auto; */
+    margin-left: -17em;
+    text-align: center;
+}
+
+.commitment{
+    text-align: left;
+}
+
+.commitment h3{
+    font-family: 'Inter';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-top: 2.5em;
+}
+
+.commitment P{
+    font-family: 'Poppins';
+    font-size: 9.042px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 14.267px; 
+    color: #111;
+    padding-top: 1.5em;
+}
+
+/* promos */
+
+.promo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: -2em;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    gap: 3em;
+
+}
+
+.shoes-prom img{
+    filter: brightness(60%);
+    /* z-index: -1; */
+    width: 120%;
+    position: relative;
+}
+
+.shoes-prom p{
+    color: #FFBC13;
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 7.103px;
+    font-weight: 400;
+    letter-spacing: 0.939px;
+    text-transform: uppercase;
+    margin-top: -21em;
+    text-align: center;
+    margin-left: 17em;
+    position: absolute;
+}
+
+.shoes-prom h1{
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 23.125px;
+    font-weight: 800;
+    line-height: 22.533px; /* 106.667% */
+    text-transform: uppercase;
+    color: #fff;
+    margin: -5.5em 0 1em 2em;
+    position: absolute;
+}
+
+.shoes-prom a{
+    font-family: 'Poppins';
+    font-size: 7.572px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    background-color: #fff;
+    padding: 1.3em 3em;
+    text-decoration: none;
+    color: #111;
+    position: absolute;
+    margin-top: -7em;
+    margin-left: -3em;
+}
+
+/* Section 5 testimonials */
+
+.section5{
+    margin-top: -2em;
+}
+
+.testimonail-content{
+    background-color: #fff;
+    margin: -1em 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 2em;
+}
+
+
+.testimonial1{
+    padding: .5em;
+    display: flex;
+    flex-direction: column;
+    padding-right: 2em;
+    text-align: start;
+}
+
+.testimonial1 .para1{
+    font-family: 'Poppins';
+    font-size: 7.103px;
+    font-weight: 400;
+    letter-spacing: 0.939px;
+    text-transform: uppercase;
+    color: #FFBC13;
+}
+
+.testimonial1 h1{
+    color: var(--Dark, #111);
+    font-family: 'Inter';
+    font-size: 26.125px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 25.533px; /* 106.667% */
+    text-transform: uppercase;
+    text-align: start;
+}
+
+.testimonial1 .para2{
+    color: #111;
+    font-family: 'Poppins';
+    font-size: 9.042px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 11.267px; /* 160% */
+    text-align: start;
+}
+
+.testimonial1 a{
+    padding: 2em;
+    text-decoration: none;
+    background-color: #111;
+    color: #fff;
+    font-family: 'Poppins';
+    font-size: 8.572px;
+    font-weight: 400;
+    letter-spacing: 0.939px;
+    text-transform: uppercase;
+    width: 50%;
+    padding: 1.2em 2em;
+}
+
+.testimonial2, .testimonial3 {
+    background-color: #111;
+    padding: 3.5em 2em;
+    margin-right: 1em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+.testimonial3{
+    background-color: #fff;
+}
+
+.testimonial3 h3{
+    color: #111;
+}
+
+.testimonial3 p{
+    color: #111;
+    font-weight: 600;
+    font-family: 'Poppins';
+}
+
+.testimonial2, .testimonial3, h3{
+    color: #fff;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-top: 1em;
+}
+
+.testimonial2, .testimonial3, .sub-para{
+    color: #fff;
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 15.267px; /* 160% */
+    text-transform: lowercase;
+}
+
+.testimonial2, .testimonial3, .para{
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 6.103px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.939px;
+    text-transform: uppercase;
+    color: #FFBC13;
+    margin-bottom: -1em;
+}
+
+.section5 {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .testimonail-content {
+      white-space: nowrap;
+      transition: transform 0.5s ease-in-out;
+  }
+
+  .testimonial1, .testimonial2, .testimonial3{
+    display: inline-block;
+  }
+
+  .testimonail-content:hover .testimonial1, .testimonial2, .testimonial3{
+    /* transform: translateX(-100%); */
+    transform: translateX(40%);
+  }
+  
+  /* .testimonail-content:hover .testimonial1, .testimonial2, .testimonial3{
+    /* transform: translateX(-100%); */
+    /* transform: translateX(100%); */
+  
+  .testimonail-content:hover .testimonial1, .testimonial2, .testimonial3:not(:hover){
+    opacity: 1;
+  }
+
+  .section6{
+    padding: 2em;
+    background-color: #fff;
+    margin: 0 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+  }
+
+
+
+  .section6-img img{
+    width: 110%;
+  }
+
+  .section6-subtitle{
+    border: 0.469px solid var(--Border-Color, #DDD);
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 110%;
+    padding-left: .8em;
+  }
+
+  .section6-img .paragraph1{
+    color:  rgba(17, 17, 17, 0.50);
+    font-family: 'Poppins';
+    font-size: 9.042px;
+    font-weight: 400;
+    line-height: 11.267px; /* 160% */
+    margin-top: 2em;
+  }
+
+  .section6-img h3{
+    color:  #111;
+    font-family: 'Inter';
+    font-size: 9.389px;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-align: left;
+    margin-top: -1em;
+  }
+
+  .section6-img .paragraph2{
+    color:  #111;
+    font-family: 'Poppins';
+    font-size: 9.042px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 11.267px; /* 160% */
+  }
+
