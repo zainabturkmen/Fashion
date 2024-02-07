@@ -808,7 +808,7 @@ a:hover{
 .links{
     display: flex;
     flex-direction: row;
-}
+}  
 
 .links ul li{
     list-style-type: none;
