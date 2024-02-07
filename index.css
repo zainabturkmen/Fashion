@@ -658,7 +658,7 @@ a:hover{
   .testimonial1, .testimonial2, .testimonial3{
     display: inline-block;
   }
-
+  
   .testimonail-content:hover .testimonial1, .testimonial2, .testimonial3{
     /* transform: translateX(-100%); */
     transform: translateX(40%);
@@ -668,7 +668,7 @@ a:hover{
     /* transform: translateX(-100%); */
     /* transform: translateX(100%); */
 
-    
+
   
   .testimonail-content:hover .testimonial1, .testimonial2, .testimonial3:not(:hover){
     opacity: 1;
