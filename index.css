@@ -664,7 +664,6 @@ a:hover{
     transform: translateX(40%);
   }  
   
-  
   .testimonail-content:hover .testimonial1, .testimonial2, .testimonial3:not(:hover){
     opacity: 1;
   }
