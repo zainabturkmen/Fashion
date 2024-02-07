@@ -360,7 +360,7 @@ a:hover{
     justify-content: space-between;
     margin: 1em 4em;
 }  
-
+  
 .about{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
