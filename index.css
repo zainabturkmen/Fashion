@@ -474,7 +474,6 @@ a:hover{
 
 .shoes-prom img{
     filter: brightness(60%);
-    /* z-index: -1; */
     width: 120%;
     position: relative;
 }
