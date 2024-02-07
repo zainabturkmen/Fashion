@@ -662,7 +662,7 @@ a:hover{
   .testimonail-content:hover .testimonial1, .testimonial2, .testimonial3{
     /* transform: translateX(-100%); */
     transform: translateX(40%);
-  }
+  }  
   
   /* .testimonail-content:hover .testimonial1, .testimonial2, .testimonial3{
     /* transform: translateX(-100%); */
