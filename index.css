@@ -283,7 +283,7 @@ a:hover{
 .sneakers{
     display: flex;
     flex-direction: column;
-}
+}  
 
 .sneakers img{
     width: 110%;
