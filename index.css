@@ -364,7 +364,7 @@ a:hover{
 .about{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-}
+}  
 
 .sneaker-store{
     width: 109.7%;
