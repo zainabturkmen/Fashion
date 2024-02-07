@@ -644,26 +644,19 @@ a:hover{
 .section5 {
     position: relative;
     overflow: hidden;
-  }  
-  
-  .testimonail-content {
+  }
+
+  .testimonail-content{
       white-space: nowrap;
-      transition: transform 0.5s ease-in-out;
+      transform: translateX(0);
+      transition: transform 1s ease-in-out;
   }
 
-  .testimonial1, .testimonial2, .testimonial3{
-    display: inline-block;
-  }
-  
-  .testimonail-content:hover .testimonial1, .testimonial2, .testimonial3{
-    /* transform: translateX(-100%); */
-    transform: translateX(40%);
-  }  
-  
-  .testimonail-content:hover .testimonial1, .testimonial2, .testimonial3:not(:hover){
-    opacity: 1;
+  .testimonail-content:hover{
+    transform: translateX(-25%);
   }
 
+  /* Section 6  */
   .section6{
     padding: 2em;
     background-color: #fff;
