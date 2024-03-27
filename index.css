@@ -255,8 +255,7 @@ a:hover{
   flex-wrap: wrap;
   z-index: 1;
   margin-top: -4em;
-  /* position: absolute; */
-  /* top: 80%; */
+  
 }
 
 .section-One svg{
@@ -271,7 +270,7 @@ a:hover{
   flex-direction: row;
   align-items: start;
   justify-content: center;
-  border-right: .1px solid rgb(100, 99, 99);
+  border-right: .1px solid rgb(82, 81, 81);
   padding: 16px 10px;
   gap: 6px;
   border-radius: none;
@@ -279,17 +278,22 @@ a:hover{
 }
 
 .desc{
-  display: flex;
-  flex-direction: column;
-  text-align: start;
-  align-items: start;
+    margin-top: -.4em;
 }
+
+.desc h3{
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
 
 .desc p{
   font-weight: 200;
-  font-size: 15px;
+  font-size: 13px;
   font-family: 'Poppins';
   font-weight: 200;
+  padding: 0;
+  margin: 0;
 }
 /* section one end */ 
 
